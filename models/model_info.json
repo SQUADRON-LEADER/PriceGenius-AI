@@ -1,0 +1,15 @@
+{
+  "training_accuracy": 85.0,
+  "ensemble_weights": {
+    "LightGBM": 0.4,
+    "XGBoost": 0.35,
+    "CatBoost": 0.25
+  },
+  "feature_dimensions": 212,
+  "algorithms": [
+    "LightGBM",
+    "XGBoost",
+    "CatBoost"
+  ],
+  "note": "Simple test models - run full training for actual trained models"
+}
