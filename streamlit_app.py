@@ -13,8 +13,8 @@ import os
 
 # Configure page
 st.set_page_config(
-    page_title="PriceGenie AI - Smart Product Pricing",
-    page_icon="🧞‍♂️",
+    page_title="PriceGenius AI - Smart Product Pricing",
+    page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -693,7 +693,7 @@ def main():
     # Header
     st.markdown("""
     <div class="main-header">
-        🧞‍♂️ PriceGenie AI - Smart Product Pricing
+        🧠 PriceGenius AI - Smart Product Pricing
         <br><small style="font-size: 0.7em; font-weight: 400; opacity: 0.9;">
             Advanced Machine Learning • Multi-Algorithm Ensemble • Real-time Predictions
         </small>
@@ -707,7 +707,7 @@ def main():
         # Custom brand section with Amazon colors
         st.markdown("""
         <div style="text-align: center; padding: 15px; background: linear-gradient(135deg, #ff9500 0%, #232f3e 100%); border-radius: 10px; margin: 10px 0;">
-            <h3 style="color: white; margin: 0; font-size: 1.2rem;">🧞‍♂️ PriceGenie AI</h3>
+            <h3 style="color: white; margin: 0; font-size: 1.2rem;">🧠 PriceGenius AI</h3>
             <p style="color: #f0f0f0; margin: 5px 0 0 0; font-size: 0.8rem;">Smart Product Pricing</p>
         </div>
         """, unsafe_allow_html=True)
@@ -1594,9 +1594,9 @@ def show_settings_page():
     # About section
     st.subheader("About")
     st.markdown("""
-    **PriceGenie AI - Smart Product Pricing v2.0**
+    **PriceGenius AI - Smart Product Pricing v2.0**
     
-    PriceGenie AI is an intelligent pricing platform that uses cutting-edge machine learning to predict product prices with exceptional accuracy. Simply describe your product and let our AI genie grant your pricing wishes!
+    PriceGenius AI is an intelligent pricing platform that uses cutting-edge machine learning to predict product prices with exceptional accuracy. Simply describe your product and let our AI genius calculate the perfect price!
     
     **AI Models Powering Your Predictions:**
     - �‍♂️ **GenieGBM** (LightGBM): 45.68% accuracy (SMAPE)
