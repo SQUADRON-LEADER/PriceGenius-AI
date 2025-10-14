@@ -50,7 +50,7 @@ venv.bak/
 .pytest_cache/
 
 # Machine Learning models (large files)
-*.pkl
+# *.pkl - commented out to allow model files for deployment
 *.h5
 *.model
 *.joblib
