@@ -10,7 +10,7 @@
 
 *Transform your pricing strategy with cutting-edge machine learning algorithms*
 
-[🚀 Demo](#-demo) • [📖 Documentation](#-installation) • [🛠️ Setup](#-quick-start) • 
+[🚀 Demo](#-demo) • [📖 Documentation](#-installation)  
 
 </div>
 
@@ -527,5 +527,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 # PriceGenius-AI
 # PriceGenius-AI
 # PriceGenius-AI
+
 
 
