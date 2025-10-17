@@ -81,14 +81,14 @@ PriceGenie AI revolutionizes product pricing through advanced machine learning, 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
+</div>
 ### **ML Algorithms**
 - **🚀 LightGBM**: Gradient boosting framework for high performance
 - **⚡ XGBoost**: Extreme gradient boosting for accuracy
 - **🎯 CatBoost**: Categorical feature handling excellence
 - **📊 Ensemble Methods**: Model combination for optimal results
 
-</div>
+
 
 ---
 
@@ -527,6 +527,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 # PriceGenius-AI
 # PriceGenius-AI
 # PriceGenius-AI
+
 
 
 
