@@ -13,8 +13,8 @@ PriceGenie AI helps businesses make **data-driven pricing decisions** using **ma
 
 ## 🎬 Demo
 
-📸 *Interactive demo and screenshots coming soon!*
-(💡 Streamlit app will be hosted and linked here once deployed.)
+<img width="1919" height="868" alt="Screenshot 2025-10-09 162818" src="https://github.com/user-attachments/assets/aed54e8e-d391-4df4-ab2d-702a761c002c" />
+
 
 ---
 
@@ -242,3 +242,4 @@ For bugs, questions, or ideas:
 ---
 
 💬 *Let PriceGenie AI make your pricing smarter, faster, and fairer!* ⚡
+
