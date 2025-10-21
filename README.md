@@ -235,10 +235,7 @@ SOFTWARE.
 
 ---
 
-## 👨‍💻 Maintainers
 
-For bugs, questions, or ideas:
-👉 [Open an Issue](https://github.com/SQUADRON-LEADER/PriceGenie-AI/issues)
 
 ---
 
@@ -252,6 +249,7 @@ For bugs, questions, or ideas:
 ---
 
 💬 *Let PriceGenie AI make your pricing smarter, faster, and fairer!* ⚡
+
 
 
 
