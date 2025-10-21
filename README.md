@@ -235,10 +235,6 @@ SOFTWARE.
 
 ---
 
-
-
----
-
 ## 🌟 Acknowledgements
 
 🙏 Thanks to these amazing tools:
@@ -249,6 +245,7 @@ SOFTWARE.
 ---
 
 💬 *Let PriceGenie AI make your pricing smarter, faster, and fairer!* ⚡
+
 
 
 
