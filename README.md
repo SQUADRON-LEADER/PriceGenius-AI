@@ -24,6 +24,8 @@ PriceGenie AI helps businesses make **data-driven pricing decisions** using **ma
 
 <img width="1919" height="860" alt="Screenshot 2025-10-09 162906" src="https://github.com/user-attachments/assets/9f59e6f8-451d-4f62-a07b-072aebb4490c" />
 
+<img width="1919" height="860" alt="Screenshot 2025-10-09 162913" src="https://github.com/user-attachments/assets/849cc862-6471-42c0-a7ac-b82709a2094c" />
+
 ---
 
 ## ✨ Key Features
@@ -250,6 +252,7 @@ For bugs, questions, or ideas:
 ---
 
 💬 *Let PriceGenie AI make your pricing smarter, faster, and fairer!* ⚡
+
 
 
 
